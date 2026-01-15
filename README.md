@@ -21,6 +21,7 @@ Permite realizar operaciones CRUD (Create, Read, Update, Delete) sobre una base 
    cd travel-api
 
 2. Crea y activa un entorno virtual:
+
    python -m venv api_env
    
 # Windows PowerShell 
